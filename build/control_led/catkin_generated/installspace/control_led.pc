@@ -1,0 +1,8 @@
+prefix=/home/taek/catkin_ws/install
+
+Name: control_led
+Description: Description of control_led
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
